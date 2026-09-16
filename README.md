@@ -61,3 +61,17 @@ The following analyses were performed to identify patterns and factors associate
 - Churn rate by tenure group and contract type
 
 Visualizations were created using Matplotlib to make the churn patterns easier to understand.
+
+## 📊 Key Findings
+
+- The overall customer churn rate was **26.54%**, with 1,869 customers having churned.
+- Customers in their first 12 months had a churn rate of **47.44%**, compared with **9.51%** for long-term customers.
+- **Month-to-month contracts** had a churn rate of **42.71%**, compared with **11.27%** for one-year contracts and **2.83%** for two-year contracts.
+- Customers using **fiber optic internet** had a churn rate of **41.89%**, compared with **18.96%** for DSL customers.
+- Customers who churned had higher average monthly charges (**₹74.44**) than customers who stayed (**₹61.27**).
+- Customers using **electronic check** had a churn rate of **45.29%**, compared with **15.24%** for customers using automatic credit-card payments.
+- Senior citizens had a churn rate of **41.68%**, compared with **23.61%** for non-senior customers.
+- Customers without a partner had a churn rate of **32.96%**, compared with **19.66%** for customers with a partner.
+- The analysis of tenure and contract type identified **new customers on month-to-month contracts** as a particularly high-churn segment, with an observed churn rate of **51.35%**.
+
+> These findings show associations in the dataset and do not by themselves establish that any particular factor causes customer churn.
