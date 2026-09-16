@@ -75,3 +75,26 @@ Visualizations were created using Matplotlib to make the churn patterns easier t
 - The analysis of tenure and contract type identified **new customers on month-to-month contracts** as a particularly high-churn segment, with an observed churn rate of **51.35%**.
 
 > These findings show associations in the dataset and do not by themselves establish that any particular factor causes customer churn.
+
+## 💡 Business Recommendations
+
+1. **Improve early customer retention**
+   - Focus on customers during their first 12 months with better onboarding, proactive support, and early engagement campaigns.
+
+2. **Encourage longer-term contracts**
+   - Provide suitable incentives or benefits for customers to move from month-to-month contracts to one-year or two-year contracts.
+
+3. **Target high-risk customer segments**
+   - Prioritize retention efforts for new customers on month-to-month contracts, as this segment had an observed churn rate of 51.35%.
+
+4. **Investigate fiber-optic customer churn**
+   - Analyze service quality, pricing, outages, complaints, and customer support for fiber-optic customers to understand the high observed churn rate.
+
+5. **Review pricing and monthly charges**
+   - Customers who churned had higher average monthly charges, so the company could investigate whether pricing, plan value, or service costs are related to churn.
+
+6. **Improve payment experience**
+   - Investigate why customers using electronic checks have a much higher observed churn rate and consider encouraging convenient automatic payment options.
+
+7. **Develop targeted retention campaigns**
+   - Use customer characteristics such as tenure, contract type, internet service, payment method, and monthly charges to design more targeted retention strategies.
