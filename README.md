@@ -43,3 +43,21 @@ It includes customer demographics, services, contract details, payment methods, 
 - Pandas
 - Matplotlib
 - Google Colab
+
+## 🔍 Analysis Performed
+
+The following analyses were performed to identify patterns and factors associated with customer churn:
+
+- Overall customer churn rate
+- Customer tenure analysis
+- Churn rate by tenure group
+- Churn rate by contract type
+- Churn rate by internet service
+- Average monthly charges by churn status
+- Churn rate by payment method
+- Churn rate by senior citizen status
+- Churn rate by partner status
+- Churn rate by dependents status
+- Churn rate by tenure group and contract type
+
+Visualizations were created using Matplotlib to make the churn patterns easier to understand.
