@@ -76,6 +76,10 @@ Visualizations were created using Matplotlib to make the churn patterns easier t
 
 > These findings show associations in the dataset and do not by themselves establish that any particular factor causes customer churn.
 
+## 📊 Churn Rate by Contract Type
+
+![Churn Rate by Contract Type](churn-rate-by-contract.png)
+
 ## 💡 Business Recommendations
 
 1. **Improve early customer retention**
